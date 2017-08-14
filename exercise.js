@@ -15,7 +15,7 @@ console.log(howManyLetters);
 /*Next, concatenate and console.log the following phrase:
 "x is the longest place name in the world and has y letters in its name."
 where x represents the value at `longestPlaceName` and y represents the value at `howManyLetters`*/
-
+console.log(longestPlaceName + " is the longest place name in the world and has" + " " +howManyLetters + " letters in its name.");
 
 /*The string.charAt() method returns the character at the specified index (position).*/
 

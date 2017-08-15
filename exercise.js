@@ -60,6 +60,8 @@ console.log(theSifu);
 /*6. Declare a variable named `smallKine` that will convert the string below to all lower case. Console.log your result.*/
 
 var bigTime = "BRUuHHHH, I AM DA GreaTest!";
+var smallKine = bigTime.toLowerCase();
+console.log(smallKine);
 
 
 
